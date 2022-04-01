@@ -1,8 +1,8 @@
-<p align="center"><a href="https://github.com/thangvd2312"><img width="30%" src="./assets/images/IMG_9101.JPG" /></a></p>
+<p align="center"><a href="https://github.com/thangvd2312"><img width="30%" src="./assets/images/IMG_9113.JPG" /></a></p>
 
 <br />
 
-I'm a Developer from Vietnamese
+I'm a Developer from *Vietnam
 
 **About me**
 
