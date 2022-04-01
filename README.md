@@ -16,7 +16,23 @@ I'm a Developer from *Vietnam
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-
+<p align="center">
+  <a href="https://join.skype.com/invite/l2jqOdQCigJL" target="_blank">
+    <img alt="Skype me" src="skype.png" width="30" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="mailto:thangvd2312@gmail.co" target="_blank">
+    <img alt="Email me" src="gmail.png" width="30" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://www.facebook.com/profile.php?id=100017448736183" target="_blank">
+    <img alt="My Facebook" src="fb.png" width="30" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://www.linkedin.com/in/thang-vu-b916b6119/" target="_blank">
+    <img alt="My LinkedIn" src="linkedin.png" width="30" />
+  </a>
+</p>
 <p>![thangvd2312's GitHub stats]</p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thangvd2312&show_icons=true&theme=radical&count_private=true" alt="thangvd2312 github stats" />
 
