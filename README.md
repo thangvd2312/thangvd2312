@@ -49,4 +49,4 @@ I'm a Developer from *Vietnam
 </a>
 
 #### ![My CodersRank profile]
-<img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thangvd2312&branding=false" alt="thangvd2312 github stats" />
+<img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thangvd2312&branding=false" alt="thangvd2312" />
