@@ -48,4 +48,5 @@ I'm a Developer from *Vietnam
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangcongst&repo=liftu-frontend&theme=buefy" />
 </a>
 
-![My CodersRank profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thangvd2312&branding=false)
+#### ![My CodersRank profile]
+<img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thangvd2312&branding=false" alt="thangvd2312 github stats" />
