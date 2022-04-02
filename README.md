@@ -1,7 +1,6 @@
-<p align="center"><a href="https://github.com/thangvd2312"><img width="30%" src="./assets/images/IMG_9101.JPG" /></a></p>
-
+#### thangvd2312's GitHub stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thangvd2312&show_icons=true&theme=radical&count_private=true" alt="thangvd2312 github stats" />
 <br />
-
 I'm a Developer from *Vietnam
 
 **About me**
@@ -33,13 +32,7 @@ I'm a Developer from *Vietnam
     <img alt="My LinkedIn" src="linkedin.png" width="30" />
   </a>
 </p>
-<p>![thangvd2312's GitHub stats]</p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thangvd2312&show_icons=true&theme=radical&count_private=true" alt="thangvd2312 github stats" />
-
 #### Top Repositories
-
-
-
 <a href="https://github.com/thangvd2312/videomakers">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thangvd2312&repo=videomakers&theme=buefy" />
 </a>
@@ -48,5 +41,5 @@ I'm a Developer from *Vietnam
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangcongst&repo=liftu-frontend&theme=buefy" />
 </a>
 
-#### ![My CodersRank profile]
+#### My CodersRank profile
 <img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thangvd2312&branding=false" alt="thangvd2312" />
