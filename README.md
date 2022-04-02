@@ -32,7 +32,9 @@ I'm a Developer from *Vietnam
     <img alt="My LinkedIn" src="linkedin.png" width="30" />
   </a>
 </p>
+
 #### Top Repositories
+<p>
 <a href="https://github.com/thangvd2312/videomakers">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thangvd2312&repo=videomakers&theme=buefy" />
 </a>
@@ -40,6 +42,7 @@ I'm a Developer from *Vietnam
 <a href="https://github.com/hoangcongst/liftu-frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangcongst&repo=liftu-frontend&theme=buefy" />
 </a>
+</p>
 
 #### My CodersRank profile
 <img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thangvd2312&branding=false" alt="thangvd2312" />
