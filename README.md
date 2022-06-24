@@ -36,7 +36,7 @@ I'm a Developer from *Vietnam
 #### Top Repositories
 <p>
 <a href="https://github.com/thangvd2312/videomakers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thangvd2312&repo=videomakers&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thangvd2312&repo=ReactJS&theme=buefy" />
 </a>
 
 <a href="https://github.com/hoangcongst/liftu-frontend">
