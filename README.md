@@ -45,7 +45,17 @@ I'm a Developer from *Vietnam
 </p>
 
 #### My CodersRank profile
-<img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thangvd2312&branding=false" alt="thangvd2312" />
+https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=YOUR_USERNAME
+It accepts all widget attributes as query string parameters, plus one extra parameter:
+
+Name	Type	Default	Description
+width	number	480	Width of widget element (generated image). Note that generated image has @2x pixel density, so the PNG image will be actually generated in @2x size from the one specified here
+style	string		style attribute value (here you can specify all CSS variables)
+For example:
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thangvd2312&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
 
 #### Tech Skills
 <img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=thangvd2312" alt="thangvd2312" />
