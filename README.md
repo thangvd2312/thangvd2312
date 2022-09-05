@@ -45,7 +45,7 @@ I'm a Developer from *Vietnam
 </p>
 
 #### My CodersRank profile
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thangvd2312&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" />
+<imgsrc="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thangvd2312&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" />
 
 #### Tech Skills
 <img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=thangvd2312" alt="thangvd2312" />
