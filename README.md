@@ -44,5 +44,6 @@ I'm a Developer from *Vietnam
 </a>
 </p>
 
-#### My CodersRank profile
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thangvd2312" />
+---
+
+![My CodersRank profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thangvd2312&branding=false)
