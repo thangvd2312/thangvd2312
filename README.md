@@ -46,4 +46,4 @@ I'm a Developer from *Vietnam
 
 ---
 
-![My CodersRank profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thangvd2312&branding=false)
+![My CodersRank profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thangvd2312&branding=false&birthday=23121995})
