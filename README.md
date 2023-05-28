@@ -35,7 +35,7 @@ I'm a Developer from *Vietnam
 
 #### Skill Chart
 <p>
-    <a href="https://github.com/thangvd2312/thangvv-react-crwn-clothing">
+    <a href="https://github.com/thangvd2312">
       <img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=thangvd2312" />
     </a>
 </p>
