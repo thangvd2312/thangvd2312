@@ -33,15 +33,11 @@ I'm a Developer from *Vietnam
   </a>
 </p>
 
-#### Top Repositories
+#### Skill Chart
 <p>
-<a href="https://github.com/thangvd2312/thangvv-react-crwn-clothing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thangvd2312&repo=thangvv-react-crwn-clothing&theme=buefy" />
-</a>
-
-<a href="https://github.com/hoangcongst/liftu-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangcongst&repo=liftu-frontend&theme=buefy" />
-</a>
+    <a href="https://github.com/thangvd2312/thangvv-react-crwn-clothing">
+      <img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=thangvd2312" />
+    </a>
 </p>
 
 ---
