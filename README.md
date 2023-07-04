@@ -1,5 +1,5 @@
 #### thangvd2312's GitHub stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thangvd2312&show_icons=true&theme=radical&count_private=true" alt="thangvd2312 github stats" />
+<img align="center" src="https://github-readme-stats-blond-xi.vercel.app/api?username=thangvd2312&show_icons=true&theme=radical&count_private=true" alt="thangvd2312 github stats" />
 <br />
 I'm a Developer from *Vietnam
 
