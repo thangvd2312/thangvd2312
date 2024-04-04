@@ -32,14 +32,3 @@ I'm a Developer from *Vietnam
     <img alt="My LinkedIn" src="linkedin.png" width="30" />
   </a>
 </p>
-
-#### Skill Chart
-<p>
-    <a href="https://github.com/thangvd2312">
-      <img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=thangvd2312" />
-    </a>
-</p>
-
----
-
-![My CodersRank profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thangvd2312&branding=false&birthday=23121995)
