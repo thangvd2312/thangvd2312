@@ -1,177 +1,155 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  Thang Vu - Fullstack Developer Portfolio README           ║ -->
-<!-- ║  Built with care, powered by coffee & curiosity ☕           ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- BANNER -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:233040,100:48276a&height=200&section=header&text=Thang%20Vu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer&descAlignY=52&descAlign=57&descSize=20&descColor=e8e8e8" alt="banner"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- INTRO -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jerry+%F0%9F%91%8B;Fullstack+Developer+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;PHP+%E2%80%A2+NodeJS+%E2%80%A2+ReactJS+%E2%80%A2+VueJS" alt="intro"/>
-</p>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!-- STATS CARDS -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 <p align="center">
   <a href="https://github.com/thangvd2312">
-    <img height="165" src="https://github-readme-stats-cn.vercel.app/api?username=thangvd2312&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide_border=true&border_radius=8&title_color=58A6FF&icon_color=58A6FF&text_color=e6edf3&bg_color=0d1117" alt="stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=thangvd2312&show_icons=true&theme=radical&count_private=true&hide_border=true&border_radius=8&card_width=400" alt="stats" width="400"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/thangvd2312">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangvd2312&layout=donut&theme=radical&count_private=true&hide_border=true&border_radius=8&card_width=250" alt="top langs" width="250"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thangvd2312&theme=radical&hide_border=true&border_radius=8&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=58A6FF" alt="streak" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc?username=thangvd2312&color=58A6FF&style=flat" alt="profile views"/>
+</p>
+
+---
+
+## 👋 Hi there, I'm Jerry!
+
+### ‍💻 Fullstack Developer from Vietnam 🇻🇳
+
+I'm a passionate developer with ~9 years of experience building scalable web applications. Currently working at **TIDESQUARE** (previously at FPT Software), based in Hà Nội.
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3>About Me</h3>
+      <ul>
+        <li>💼 Developer at <strong>TIDESQUARE</strong></li>
+        <li>🏢 Previously at <strong>FPT Software</strong></li>
+        <li> Hà Nội, Vietnam</li>
+        <li>🌐 <a href="https://thangvd2312.github.io">thangvd2312.github.io</a></li>
+        <li> thangvd2312@gmail.com</li>
+        <li> I may be slow to respond, but I always deliver!</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <h3>Quick Facts</h3>
+      <ul>
+        <li> ~9 years in software development</li>
+        <li>🚀 14 public repositories on GitHub</li>
+        <li>🛠️ PHP, NodeJS, ReactJS, VueJS</li>
+        <li>📚 Constantly learning new technologies</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="left">
+  <a href="https://github.com/thangvd2312/thangvd2312.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thangvd2312&repo=thangvd2312.github.io&theme=radical&hide_border=true&border_radius=8&show_icons=false&description_lines_count=2" alt="github.io" width="400"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/thangvd2312">
-    <img height="165" src="https://github-readme-stats-cn.vercel.app/api/top-langs/?username=thangvd2312&layout=compact&theme=onedark&count_private=true&hide_border=true&border_radius=8&title_color=58A6FF&text_color=e6edf3&bg_color=0d1117&langs_count=6&card_width=320" alt="top langs"/>
+  <a href="https://github.com/thangvd2312/log-request-extension">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thangvd2312&repo=log-request-extension&theme=radical&hide_border=true&border_radius=8&show_icons=false&description_lines_count=2" alt="log-request-extension" width="400"/>
   </a>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- TROPHY -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<p align="center">
-  <a href="https://github.com/thangvd2312">
-    <img src="https://github-profile-trophy.vercel.app/?username=thangvd2312&theme=onedark&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="trophy"/>
+<p align="left">
+  <a href="https://github.com/thangvd2312/chat-firebase-react">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thangvd2312&repo=chat-firebase-react&theme=radical&hide_border=true&border_radius=8&show_icons=false&description_lines_count=2" alt="chat-firebase-react" width="400"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/thangvd2312/react-crwn-clothing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thangvd2312&repo=react-crwn-clothing&theme=radical&hide_border=true&border_radius=8&show_icons=false&description_lines_count=2" alt="react-crwn-clothing" width="400"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thangvd2312&theme=onedark&hide_border=true&border_radius=8&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=58A6FF" alt="streak"/>
-</p>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!-- ABOUT ME -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-## 👨‍💻 About Me
-
-<p align="center">
-  <table>
-    <tr>
-      <td><img src="https://img.shields.io/badge/🏢_Company-TIDESQUARE-58A6FF?style=flat-square" alt="company"/></td>
-      <td><img src="https://img.shields.io/badge/📍_Location-Hà_Nội-FF6B6B?style=flat-square" alt="location"/></td>
-      <td><img src="https://img.shields.io/badge/💼_Experience-~9_Years-4ECDC4?style=flat-square" alt="experience"/></td>
-      <td><img src="https://img.shields.io/badge/🎓_Focus-Fullstack-FFE66D?style=flat-square" alt="focus"/></td>
-    </tr>
-  </table>
-</p>
-
-> _Developer at **TIDESQUARE** (previously FPT Software). Passionate about building scalable web applications and clean architecture._
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- TECH STACK -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-## 🛠️ Tech Stack
-
-### 💻 Languages & Frameworks
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-</p>
-
-### 🔧 Tools & Platforms
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="Webpack"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="Vite"/>
-</p>
-
-###  Currently Exploring
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="GraphQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION CHART -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-## 📊 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/thangvd2312">
-    <img src="https://ghchart.rshah.org/58A6FF/thangvd2312" alt="contribution chart" height="120"/>
+<p align="left">
+  <a href="https://github.com/thangvd2312/to-do-list-vue">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thangvd2312&repo=to-do-list-vue&theme=radical&hide_border=true&border_radius=8&show_icons=false&description_lines_count=2" alt="to-do-list-vue" width="400"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/thangvd2312/boilerplate-react">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thangvd2312&repo=boilerplate-react&theme=radical&hide_border=true&border_radius=8&show_icons=false&description_lines_count=2" alt="boilerplate-react" width="400"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/58A6FF/thangvd2312" alt="contribution chart"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thangvd2312&theme=react-dark&hide_border=true&color=58A6FF&line=58A6FF&point=58A6FF&area=true&radius=16&bg_color=0d1117" alt="activity graph" height="200"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- FEATURED PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-## 🚀 Featured Projects
+---
 
-| 📁 Project |  Description | 🏷️ Tech Stack |
-|-----------|---------------|---------------|
-| [🌐 thangvd2312.github.io](https://github.com/thangvd2312/thangvd2312.github.io) | Personal portfolio website | HTML, CSS, JS |
-| [🔌 log-request-extension](https://github.com/thangvd2312/log-request-extension) | Browser extension for HTTP request logging | JavaScript |
-| [💬 chat-firebase-react](https://github.com/thangvd2312/chat-firebase-react) | Real-time chat application | React, Firebase |
-| [🛍️ react-crwn-clothing](https://github.com/thangvd2312/react-crwn-clothing) | E-commerce clothing store | React, JS |
-| [✅ to-do-list-vue](https://github.com/thangvd2312/to-do-list-vue) | Task management app | Vue.js |
-| [⚙️ boilerplate-react](https://github.com/thangvd2312/boilerplate-react) | React + TypeScript starter | React, TS |
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- CONNECT -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-## 🤝 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="mailto:thangvd2312@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email" alt="email"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/thang-vu-b916b6119/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn" alt="linkedin"/>
   </a>
   &nbsp;
   <a href="https://www.facebook.com/profile.php?id=100017448736183">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&label=Facebook" alt="facebook"/>
   </a>
   &nbsp;
   <a href="https://join.skype.com/invite/l2jqOdQCigJL">
-    <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="skype"/>
+    <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white&label=Skype" alt="skype"/>
   </a>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- FOOTER -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:48276a,100:233040&height=80&section=footer" alt="footer"/>
-</p>
+---
 
 <p align="center">
   <em>⚡ Powered by coffee, curiosity & clean code ⚡</em>
 </p>
-
-<!--
-  ═══════════════════════════════════════════════════════════
-  README Stats (hidden):
-  - Generated: 2026-05-28
-  - Theme: OneDark / Radical accent
-  - All external services are active & verified
-  ═══════════════════════════════════════════════════════════
--->
